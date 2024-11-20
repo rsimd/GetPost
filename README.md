@@ -1,3 +1,3 @@
 # getpost
 
-Describe your project here.
+fastapiでGET/POSTやフォームを使ってみよう．
